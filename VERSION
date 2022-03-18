@@ -1,0 +1,23 @@
+commit d12b6ca167d8e7112857a5dfb3592077ff2c1eef
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Mar 18 14:11:16 2022 -0700
+
+    Pan attribute (#3286)
+    
+    * pan working
+    
+    * recenter works
+    
+    * cleanup
+    
+    * use bounding sphere to limit pan
+    
+    * added pan to editor
+    
+    * changed fov defaults for pan
+    
+    * deflake test
+    
+    * simplified thor example
+    
+    * added docs
